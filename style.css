@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  gap: 0;
+}
+.head {
+  background-image: url("./assets/headBG.jpg");
+  background-size: cover;
+  height: 200px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.uper {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.bigbuttons {
+  background: yellow;
+  color: red;
+  height: 100px;
+}
+.peoples {
+  background: #000;
+  height: 500px;
+  color: #fff;;
+}
+
