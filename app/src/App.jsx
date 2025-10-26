@@ -1,12 +1,9 @@
 import './App.css'
-import SearchAppBar from './SearchAppBar.jsx'
-import Status from './Status.jsx'
 
 function App() {
-
   return (
     <>
-      <Status />
+      <h1>Monopoly upi</h1>
     </>
   )
 }

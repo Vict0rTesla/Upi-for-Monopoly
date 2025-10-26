@@ -1,5 +1,5 @@
 {
-  "name": "monopoly-app",
+  "name": "app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.1",
-    "@fontsource/roboto": "^5.2.8",
-    "@mui/icons-material": "^7.3.2",
-    "@mui/material": "^7.3.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
