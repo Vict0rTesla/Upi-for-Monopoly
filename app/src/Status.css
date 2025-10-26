@@ -1,0 +1,7 @@
+.status {
+  height: 14rem;
+  background-image: url('./assets/statusBackground.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
